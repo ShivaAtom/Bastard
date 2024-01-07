@@ -1,2 +1,2 @@
 # Bastard
-Reproductor de música para móvil
+Generador de proyectos Gtk con C
